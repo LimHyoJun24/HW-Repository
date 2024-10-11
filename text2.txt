@@ -2,3 +2,5 @@ num = 2
 
 for i in range(num):
 	print(f"this is text{num}!")
+	print("this text is only in text2 in Branch1!")
+	print("hello?")
