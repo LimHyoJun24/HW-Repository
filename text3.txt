@@ -1,0 +1,5 @@
+num = 3
+
+for i in range(num):
+	print(f"this is text{num}!")
+	print("hello world!")

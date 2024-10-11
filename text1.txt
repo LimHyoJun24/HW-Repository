@@ -1,0 +1,4 @@
+num = 1
+
+for i in range(num):
+	print(f"this is text{num}!")
